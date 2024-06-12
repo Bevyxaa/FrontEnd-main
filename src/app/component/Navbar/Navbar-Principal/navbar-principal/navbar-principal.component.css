@@ -1,0 +1,5 @@
+
+img {
+    width: 200px; /* ajusta el valor según tus necesidades */
+    height: auto; /* esto mantendrá la proporción de la imagen */
+}
